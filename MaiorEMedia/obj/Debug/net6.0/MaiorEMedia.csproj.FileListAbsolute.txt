@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\bin\Debug\net6.0\MaiorEMedia.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\bin\Debug\net6.0\MaiorEMedia.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\bin\Debug\net6.0\MaiorEMedia.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\bin\Debug\net6.0\MaiorEMedia.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\bin\Debug\net6.0\MaiorEMedia.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\refint\MaiorEMedia.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\MaiorEMedia.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\MaiorEMedia\obj\Debug\net6.0\ref\MaiorEMedia.dll

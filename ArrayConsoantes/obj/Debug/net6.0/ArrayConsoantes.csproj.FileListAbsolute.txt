@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\bin\Debug\net6.0\ArrayConsoantes.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\bin\Debug\net6.0\ArrayConsoantes.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\bin\Debug\net6.0\ArrayConsoantes.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\bin\Debug\net6.0\ArrayConsoantes.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\bin\Debug\net6.0\ArrayConsoantes.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\refint\ArrayConsoantes.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ArrayConsoantes.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayConsoantes\obj\Debug\net6.0\ref\ArrayConsoantes.dll

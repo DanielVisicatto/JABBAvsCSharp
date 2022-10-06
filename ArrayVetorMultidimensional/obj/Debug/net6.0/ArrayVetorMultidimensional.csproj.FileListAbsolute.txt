@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\bin\Debug\net6.0\ArrayVetorMultidimensional.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\bin\Debug\net6.0\ArrayVetorMultidimensional.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\bin\Debug\net6.0\ArrayVetorMultidimensional.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\bin\Debug\net6.0\ArrayVetorMultidimensional.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\bin\Debug\net6.0\ArrayVetorMultidimensional.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\refint\ArrayVetorMultidimensional.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ArrayVetorMultidimensional.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayVetorMultidimensional\obj\Debug\net6.0\ref\ArrayVetorMultidimensional.dll

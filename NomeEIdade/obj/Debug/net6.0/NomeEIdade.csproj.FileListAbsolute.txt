@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\bin\Debug\net6.0\NomeEIdade.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\bin\Debug\net6.0\NomeEIdade.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\bin\Debug\net6.0\NomeEIdade.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\bin\Debug\net6.0\NomeEIdade.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\bin\Debug\net6.0\NomeEIdade.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\refint\NomeEIdade.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\NomeEIdade.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\NomeEIdade\obj\Debug\net6.0\ref\NomeEIdade.dll

@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\bin\Debug\net6.0\ArrayNumerosAleatorios.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\bin\Debug\net6.0\ArrayNumerosAleatorios.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\bin\Debug\net6.0\ArrayNumerosAleatorios.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\bin\Debug\net6.0\ArrayNumerosAleatorios.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\bin\Debug\net6.0\ArrayNumerosAleatorios.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\refint\ArrayNumerosAleatorios.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ArrayNumerosAleatorios.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ArrayNumerosAleatorios\obj\Debug\net6.0\ref\ArrayNumerosAleatorios.dll
