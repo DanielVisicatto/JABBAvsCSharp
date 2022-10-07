@@ -17,7 +17,7 @@ public class Emprestimo {
 
     public static void calcular(double valor, int parcelas) {
         if(parcelas == 2){
-            double valorFinal = valor + (valor * getDuasparcelas());
+            double valorFinal = valor + (valor * getTaxaDuasparcelas());
             System.out.println("Valor Final do empréstimo para 2 parcelas: R$" + valorFinal);
         } else if (parcelas == 3) {
             double valorFinal = valor + (valor * getTaxaTresParcelas());
