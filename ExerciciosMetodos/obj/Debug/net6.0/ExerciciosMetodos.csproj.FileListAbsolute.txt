@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\bin\Debug\net6.0\ExerciciosMetodos.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\bin\Debug\net6.0\ExerciciosMetodos.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\bin\Debug\net6.0\ExerciciosMetodos.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\bin\Debug\net6.0\ExerciciosMetodos.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\bin\Debug\net6.0\ExerciciosMetodos.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\refint\ExerciciosMetodos.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ExerciciosMetodos.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\ExerciciosMetodos\obj\Debug\net6.0\ref\ExerciciosMetodos.dll

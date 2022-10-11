@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\bin\Debug\net6.0\SobrecargaQuadrilatero.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\bin\Debug\net6.0\SobrecargaQuadrilatero.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\bin\Debug\net6.0\SobrecargaQuadrilatero.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\bin\Debug\net6.0\SobrecargaQuadrilatero.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\bin\Debug\net6.0\SobrecargaQuadrilatero.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\refint\SobrecargaQuadrilatero.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\SobrecargaQuadrilatero.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\Quadrilatero\obj\Debug\net6.0\ref\SobrecargaQuadrilatero.dll

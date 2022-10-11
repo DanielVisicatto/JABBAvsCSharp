@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostoDeListasMes", "PropostoDeListasMes.csproj", "{ACF3A711-65FD-4DAC-A1E0-580555103C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostoDeListasSuspeito", "..\PropostoDeListasSuspeito\PropostoDeListasSuspeito.csproj", "{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF3A711-65FD-4DAC-A1E0-580555103C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF3A711-65FD-4DAC-A1E0-580555103C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF3A711-65FD-4DAC-A1E0-580555103C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF3A711-65FD-4DAC-A1E0-580555103C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {303DBADD-0581-4DE9-8662-9F532250E943}
+	EndGlobalSection
+EndGlobal

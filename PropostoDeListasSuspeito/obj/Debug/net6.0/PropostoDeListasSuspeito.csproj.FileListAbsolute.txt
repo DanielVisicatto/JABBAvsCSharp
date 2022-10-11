@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\bin\Debug\net6.0\PropostoDeListasSuspeito.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\bin\Debug\net6.0\PropostoDeListasSuspeito.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\bin\Debug\net6.0\PropostoDeListasSuspeito.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\bin\Debug\net6.0\PropostoDeListasSuspeito.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\bin\Debug\net6.0\PropostoDeListasSuspeito.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\refint\PropostoDeListasSuspeito.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\PropostoDeListasSuspeito.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasSuspeito\obj\Debug\net6.0\ref\PropostoDeListasSuspeito.dll

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0803d45b-574f-4e44-8003-5a0c53458396" name="Changes" comment="Exercicios de Métodos.&#10;Sobrecarga.i">
+      <change beforePath="$PROJECT_DIR$/../NomeEIdade/.vs/NomeEIdade/FileContentIndex/514a1d54-b85c-4c0b-bfcf-708a2b4e3a08.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NomeEIdade/.vs/NomeEIdade/FileContentIndex/58f9c0ec-440d-46e4-8b41-a827befa1488.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NomeEIdade/.vs/NomeEIdade/FileContentIndex/b740edba-3a2c-4e12-bd51-5224c9cc7f4e.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NomeEIdade/.vs/NomeEIdade/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../NomeEIdade/.vs/NomeEIdade/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FoWTQWrm33ns0DOFw7bK7Phkls" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SobrecargaQuadrilatero" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0803d45b-574f-4e44-8003-5a0c53458396" name="Changes" comment="" />
+      <created>1665158926996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665158926996</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Exercicios de Métodos.&#10;Sobrecarga.i">
+      <created>1665166787302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166787302</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercicios de Métodos.&#10;Sobrecarga.i">
+      <created>1665166964346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166964346</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Exercicios de Métodos.&#10;Sobrecarga.i" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios de Métodos.&#10;Sobrecarga.i" />
+  </component>
+</project>

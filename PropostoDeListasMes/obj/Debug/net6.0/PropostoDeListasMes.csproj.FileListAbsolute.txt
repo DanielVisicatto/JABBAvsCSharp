@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\bin\Debug\net6.0\PropostoDeListasMes.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\bin\Debug\net6.0\PropostoDeListasMes.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\bin\Debug\net6.0\PropostoDeListasMes.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\bin\Debug\net6.0\PropostoDeListasMes.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\bin\Debug\net6.0\PropostoDeListasMes.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\refint\PropostoDeListasMes.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\PropostoDeListasMes.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoDeListasMes\obj\Debug\net6.0\ref\PropostoDeListasMes.dll

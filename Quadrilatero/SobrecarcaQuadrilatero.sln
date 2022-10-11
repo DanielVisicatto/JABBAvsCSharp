@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaQuadrilatero", "SobrecargaQuadrilatero.csproj", "{B5750F17-B003-4442-B64C-7F3B6915F979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5750F17-B003-4442-B64C-7F3B6915F979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5750F17-B003-4442-B64C-7F3B6915F979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5750F17-B003-4442-B64C-7F3B6915F979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5750F17-B003-4442-B64C-7F3B6915F979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B8F0D99-CA05-4268-B9B7-DC5F3ED67B67}
+	EndGlobalSection
+EndGlobal
