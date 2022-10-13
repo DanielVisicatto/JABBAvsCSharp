@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\bin\Debug\net6.0\PropostoSetArcoIris.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\bin\Debug\net6.0\PropostoSetArcoIris.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\bin\Debug\net6.0\PropostoSetArcoIris.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\bin\Debug\net6.0\PropostoSetArcoIris.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\bin\Debug\net6.0\PropostoSetArcoIris.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\refint\PropostoSetArcoIris.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\PropostoSetArcoIris.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetArcoIris\obj\Debug\net6.0\ref\PropostoSetArcoIris.dll

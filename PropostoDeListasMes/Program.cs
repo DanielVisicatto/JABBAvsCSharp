@@ -73,6 +73,6 @@ while (enumerador.MoveNext())
                 Console.WriteLine("Não houve temperaturas acima da média.");
                 break;
         }
-    }
+    }    
     count++;
 }

@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostoDeListasMes", "PropostoDeListasMes.csproj", "{ACF3A711-65FD-4DAC-A1E0-580555103C89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropostoDeListasMes", "PropostoDeListasMes.csproj", "{ACF3A711-65FD-4DAC-A1E0-580555103C89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostoDeListasSuspeito", "..\PropostoDeListasSuspeito\PropostoDeListasSuspeito.csproj", "{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropostoDeListasSuspeito", "..\PropostoDeListasSuspeito\PropostoDeListasSuspeito.csproj", "{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropostoSetArcoIris", "..\PropostoSetArcoIris\PropostoSetArcoIris.csproj", "{2989B5D5-2B60-44F0-B69A-B1C1FFA90C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostoSetLinguagens", "..\PropostoSetLinguagens\PropostoSetLinguagens.csproj", "{04C2876F-579A-4912-94A1-C8E1D8B19253}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF71EBD3-30F2-49D0-8A64-D5C900FD11F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2989B5D5-2B60-44F0-B69A-B1C1FFA90C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2989B5D5-2B60-44F0-B69A-B1C1FFA90C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2989B5D5-2B60-44F0-B69A-B1C1FFA90C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2989B5D5-2B60-44F0-B69A-B1C1FFA90C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C2876F-579A-4912-94A1-C8E1D8B19253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C2876F-579A-4912-94A1-C8E1D8B19253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C2876F-579A-4912-94A1-C8E1D8B19253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C2876F-579A-4912-94A1-C8E1D8B19253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

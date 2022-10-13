@@ -1,0 +1,15 @@
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.csproj.AssemblyReference.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.AssemblyInfoInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.AssemblyInfo.cs
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.csproj.CoreCompileInputs.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\bin\Debug\net6.0\PropostoSetLinguagens.exe
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\bin\Debug\net6.0\PropostoSetLinguagens.deps.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\bin\Debug\net6.0\PropostoSetLinguagens.runtimeconfig.json
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\bin\Debug\net6.0\PropostoSetLinguagens.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\bin\Debug\net6.0\PropostoSetLinguagens.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\refint\PropostoSetLinguagens.dll
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.pdb
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\PropostoSetLinguagens.genruntimeconfig.cache
+C:\Users\D4ni3L\Desktop\BreakingDev\BackEnd\JABAvsCSHARP\PropostoSetLinguagens\obj\Debug\net6.0\ref\PropostoSetLinguagens.dll
